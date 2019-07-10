@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require './config/environment'
-
-GiftedSchoolsCLIProject::CLI.new.call
